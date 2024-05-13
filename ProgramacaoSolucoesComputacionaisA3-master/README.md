@@ -4,52 +4,33 @@ Repositório criado com o intuito de abrigar as entregas para a A3 da UC Program
 
 ### 👨🏻‍💻 Integrantes: 
 ```
-Davi Garcia Bruck
+João Víctor Muniz da Silva
 Curso: Ciência da computação
-RA: 1072310456
-Celular: (48) 99689-0856
+RA: 1072413992
+Celular: (48) 984173211
 
 ------------------------------------------------
 
-Guilherme Izaias Fernandes
+João Augusto Mendes Homem
 Curso: Ciência da computação
-RA:  1072312029
-Celular: (48) 99865-2111
+RA:  1072416758
+Celular: (48) 984859777
 
 ------------------------------------------------
 
-Guilherme Lima
+Kevy Oliveira Alcala
 Curso: Ciência da computação
-RA: 10723115132
-Celular: (48) 99182-8318
+RA: 10724113971
+Celular: (48) 991144404
 
 ------------------------------------------------
 
-Isaías Palomanes Correia
-Curso: Análise e desenvolvimento de sistemas - semipresencial
-RA: 10723114642
-Celular: (48) 99828-6772
-
-------------------------------------------------
-
-João Guilherme da Silva Porfirio 
+Victor Hugo Santos
 Curso: Ciência da computação
-RA: 10723111590
-Celular: (48) 98416-1284
+RA: 1072410228
+Celular: (48) 991577846
 
 ------------------------------------------------
-
-Letícia Beatriz Souza
-Curso: Sistemas de informação
-RA: 1072318584
-Celular: (48) 99686-2073
-
-------------------------------------------------
-
-Renan Pando de Melo Machado
-Curso: Ciência da computação
-RA: 1072316421
-Celular: (48) 99173-2599
 
 ```
 
@@ -69,6 +50,6 @@ Celular: (48) 99173-2599
 
 #
 
-### 🎥 [Vídeo Pitch](https://drive.google.com/file/d/1RgxrBoL3kwzEEorCybZ97PbYOtOW94RW/view?usp=sharing)
+### 🎥 [Vídeo Pitch]()
 
 #
